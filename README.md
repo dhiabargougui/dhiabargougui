@@ -1,11 +1,11 @@
 ﻿# Mohamed Dhia Bargougui
 
-Hi, I'm Dhia, a cybersecurity and AI graduate based in Sfax, Tunisia, open to relocation.
+Hi, I'm Dhia, a cybersecurity and AI graduate based in Sfax, Tunisia.
 
 ## What I Do
 
 - I work on SOC threat hunting, incident response, and securing multi-agent and LLM systems.
-- Graduated June 2026 with highest honors (BSc in Computer Science, Big Data & Cybersecurity, ISIMS Sfax).
+- Graduated June 2026 with highest honors (BSc in Computer Science, Big Data & Cybersecurity, ISIMS Sfax). Open to relocation.
 
 ## Featured Projects
 
@@ -21,7 +21,9 @@ Start here: [pfe-mediguard-public](https://github.com/dhiabargougui/pfe-mediguar
 
 ## Tech Stack
 
-Splunk, SIEM, MITRE ATT&CK, Python, Go, Bash, Linux, Docker, Hyperledger Fabric, FastAPI, n8n, Git/GitHub Actions
+- **Security:** ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white) ![SIEM](https://img.shields.io/badge/SIEM-1B365D?style=flat) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C0392B?style=flat)
+- **Languages & OS:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- **Tools:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ## Connect
 
